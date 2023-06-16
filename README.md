@@ -26,7 +26,7 @@
 </div>
 
 ### Other:
-- My CV
+- [My CV](https://github.com/VladikTI/My-CV/tree/main)
 - Certificates
 <!--
 **VladikTI/VladikTI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
