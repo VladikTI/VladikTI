@@ -4,9 +4,10 @@
 </h1>
 
 ### About me:
-- I'm studying in NUST MISIS. Future Data Analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- How to reach me:
+- 👨🏻‍🎓 studying in NUST MISIS. Future Data Analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- 📫 How to reach me:
   - Telegram: [@vatikhonov](https://t.me/vatikhonov)
+  - Email: tikh.onov@yandex.ru
 
 <!--
 **VladikTI/VladikTI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
