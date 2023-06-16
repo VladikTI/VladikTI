@@ -6,13 +6,13 @@
   <img src="https://media.giphy.com/media/j3mdQpQ9SKxFOWs9gy/giphy.gif" width="240" height="240" />
 </div>
 
-### About me:
+### 🌞 About me:
 - 👨🏻‍🎓 I'm studying in Computer Sscience Institute of NUST MISIS. Future Data Analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 📫 How to reach me:
   - Telegram: [@vatikhonov](https://t.me/vatikhonov)
   - Email: tikh.onov@yandex.ru
 
-### :hammer_and_wrench: Languages and Tools :
+### 🛠️ Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -25,7 +25,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-### Other:
+### 📂 Other:
 - [My CV](https://github.com/VladikTI/My-CV/tree/main)
 - [Certificates](https://github.com/VladikTI/Certificates/tree/main)
 <!--
