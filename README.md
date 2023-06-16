@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://giphy.com/embed/fu1cAil49jxpUnz0Ee" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/lights-visuals-vjloops-fu1cAil49jxpUnz0Ee">via GIPHY</a></p>
+  <img src="https://giphy.com/embed/fu1cAil49jxpUnz0Ee" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/lights-visuals-vjloops-fu1cAil49jxpUnz0Ee">via GIPHY</a></p/>
 </div>
 
 ### Hello, my name is Vladislav 💀
