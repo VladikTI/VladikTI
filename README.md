@@ -1,6 +1,6 @@
 ### Hello, my name is Vladislav 💀
 
-<div align="center">
+<div>
   <img src="https://media.giphy.com/media/j3mdQpQ9SKxFOWs9gy/giphy.gif" width="240" height="240" />
 </div>
 <!--
