@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://giphy.com/embed/fu1cAil49jxpUnz0Ee" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen/>
+  <img src="https://giphy.com/embed/fu1cAil49jxpUnz0Ee" width="480" height="480" />
 </div>
 
 ### Hello, my name is Vladislav 💀
