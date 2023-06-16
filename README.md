@@ -1,6 +1,7 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://giphy.com/embed/fu1cAil49jxpUnz0Ee" width="480" height="480"/>
 </div>
+
 ### Hello, my name is Vladislav 💀
 <!--
 **VladikTI/VladikTI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
