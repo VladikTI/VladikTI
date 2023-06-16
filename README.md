@@ -1,8 +1,8 @@
+### Hello, my name is Vladislav 💀
+
 <div align="center">
   <img src="https://media.giphy.com/media/j3mdQpQ9SKxFOWs9gy/giphy.gif" width="240" height="240" />
 </div>
-
-### Hello, my name is Vladislav 💀
 <!--
 **VladikTI/VladikTI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
