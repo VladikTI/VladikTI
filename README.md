@@ -7,7 +7,8 @@
 </div>
 
 ### 🌞 About me:
-- 👨🏻‍🎓 I'm studying in Computer Science Institute of NUST MISIS. Future Data Analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- 👨🏻‍🎓 I study in Computer Science Institute of NUST MISIS.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- 💻 Work as a data analyst in ConsultantPlus
 - 📫 How to reach me:
   - Telegram: [@vatikhonov](https://t.me/vatikhonov)
   - Email: tikh.onov@yandex.ru
