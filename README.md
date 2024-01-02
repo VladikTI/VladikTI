@@ -8,7 +8,7 @@
 
 ### 🌞 About me:
 - 👨🏻‍🎓 I study in Computer Science Institute of NUST MISIS.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 💻 Work as a data analyst in ConsultantPlus
+- 💻 Work as a data analyst
 - 📫 How to reach me:
   - Telegram: [@vatikhonov](https://t.me/vatikhonov)
   - Email: tikh.onov@yandex.ru
